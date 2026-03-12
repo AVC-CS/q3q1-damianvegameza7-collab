@@ -16,7 +16,7 @@ int main()
 
 
     cout << setprecision(2) << fixed;
-    if(root1 < root2) {
+    if(root1 > root2) {
         cout << root1 << " " << root2 << endl;
         
     } else {
